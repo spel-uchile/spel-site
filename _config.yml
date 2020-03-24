@@ -1,12 +1,55 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: MISE
+subtitle: Multidisciplinary Initiative for Space Exploration
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-
-twitter_username:
-github_username:
+email: info@mise.cl
+logo: img/logos/mise.png
+header-image: img/bg-space.jpg
 
 # Build settings
 markdown: kramdown
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 115268
+  secondary: 4C3B71
+  secondary-dark: 021F4B
+
+# Social
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/mise
+  - title: envelope
+    url: mailto:info@mise.cl
+  - title: github
+    url: http://github.com/auroraspace
+
+
+# Custom settings
+research:
+  - name: Space physics & weather
+    icon: satellite
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - name: Evolution & Remote Signals
+    icon: dna
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - name: Astronomical Signals
+    icon: satellite-dish
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+partners:
+  - name: UCH
+    logo: uchile.png
+    url: https://uchile.cl
+
+  - name: USACH
+    logo: usach.png
+    url: https://usach.cl
+  - name: PUCV
+    logo:
+    url: https://www.pucv.cl/

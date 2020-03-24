@@ -46,6 +46,12 @@ p {
     background-color: $theme-primary;
 }
 
+.bg-secondary {
+    background-color: $theme-secondary;
+    color: white;
+    border-color: white;
+}
+
 .bg-dark {
     background-color: $theme-dark;
     color: white;
@@ -155,7 +161,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url($header-image);
     text-align: center;
     color: white;
     .header-content {
@@ -183,7 +189,7 @@ header {
     }
     @media (min-width: 768px) {
         min-height: 100%;
-        .header-content {
+        .background-imageheader-content {
             position: absolute;
             top: 50%;
             -webkit-transform: translateY(-50%);
