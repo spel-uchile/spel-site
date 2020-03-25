@@ -53,3 +53,155 @@ partners:
   - name: PUCV
     logo:
     url: https://www.pucv.cl/
+
+projects:
+  - name: SPEL
+    area: Nanosatellites
+    img: spel.jpg
+    url: https://spel.cl
+
+  - name: LAB2
+    area: AREA
+    img: 2.jpg
+    url:
+
+  - name: LAB3
+    area: AREA
+    img: 3.jpg
+    url:
+
+  - name: LAB4
+    area: AREA
+    img: 4.jpg
+    url:
+
+  - name: LAB5
+    area: AREA
+    img: 5.jpg
+    url:
+
+  - name: LAB6
+    area: AREA
+    img: 6.jpg
+    url:
+
+team:
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
+
+  - name: Researcher Name
+    role: Researcher
+    img: profile.jpg
+    url:
