@@ -1,10 +1,10 @@
 # Site settings
 title: MISE
 subtitle: Multidisciplinary Initiative for Space Exploration
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+description: The Multidisciplinary Initiative for Space Exploration initiative (MISE) is to elevate the role of Chile in space exploration. MISE is about strengthening both the space research conducted in Chile and developing related engineering sciences. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-email: info@mise.cl
+email: marina.stepanova@usach.cl
 logo: img/logos/mise.png
 header-image: img/bg-space.jpg
 
@@ -23,9 +23,9 @@ social:
   - title: twitter
     url: https://twitter.com/mise
   - title: envelope
-    url: mailto:info@mise.cl
+    url: mailto:marina.stepanova@usach.cl
   - title: github
-    url: http://github.com/auroraspace
+    url: https://github.com/spel-uchile/mise
 
 
 # Custom settings
