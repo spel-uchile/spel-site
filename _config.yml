@@ -60,10 +60,10 @@ projects:
     img: spel.jpg
     url: https://spel.cl
 
-  - name: LAB2
-    area: AREA
-    img: 2.jpg
-    url:
+  - name: ISCLab
+    area: Software Engineering
+    img: isclab.jpg
+    url: https://isclab.dcc.uchile.cl
 
   - name: LAB3
     area: AREA
