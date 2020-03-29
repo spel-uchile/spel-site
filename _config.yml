@@ -1,7 +1,9 @@
 # Site settings
 title: MISE
 subtitle: Multidisciplinary Initiative for Space Exploration
-description: The Multidisciplinary Initiative for Space Exploration  (MISE) is to elevate the role of Chile in this field. MISE is about strengthening both the space research conducted in Chile and developing related engineering sciences.
+description: >
+  The Multidisciplinary Initiative for Space Exploration  (MISE) is to elevate the role of Chile in this field. MISE is
+  about strengthening both the space research conducted in Chile and developing related engineering sciences.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 email: marina.stepanova@usach.cl
@@ -31,22 +33,37 @@ social:
 # Custom settings
 # Uses font awesome icons name, without 'fa-' prefix. Examples:
 #  space-shuttle user-astronaut globe-americas satellite meteor satellite-dish
+# Use '>' after description:, so Jekyll will ignore the line breaks.
 research:
   - name: Space physics and space weather
     icon: sun
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    description: >
+      As any other star, our Sun is not only a source of light but also the source of a stellar (solar) wind:
+      a supersonic and superalfvenic flow of plasma. Planetary magnetic fields shield planets like Earth from such
+      winds, by creating an obstacle to the incoming particle flow and forming a bow shock
 
   - name: Astronomy and astrophysics
     icon: satellite-dish
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    description: >
+      Chile has unique conditions for space exploration and astronomy. We expect to keep contributing to this field in
+      three lines: techniques and technologies to keep clean skies for astronomical observations; astronomical
+      instruments for use in space; and space and planetary physics for stellar and exoplanetary systems
 
   - name: Astrobiology and bioengineering
     icon: dna
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    description: >
+      The hostile conditions of our neighbor planets direct the search of life to the microbial world. The discovery of
+      microbial communities in high and low temperature ecosystems such as those present in deep sea hypothermal vents
+      or the Dry Valleys and frozen lakes of Antarctica respectively, have extended our definition of  a habitability
+      zone where to find extraterrestrial life.
 
   - name: Engineering science
     icon: satellite
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    description: >
+      Engineering is key to achieve the scientific goals. We will develop Life in Extreme Environment Labs (LEEL) to
+      evaluate technology to sustain life and instruments to gather data to find candidates for aerial and
+      space missions. Leveraging from our experience in instrumentation, robotics, solar energy and mining, we will
+      focus on its development, transportation, deployment, maintenance and efficiency in space.
 
 partners:
   - name: UCH
