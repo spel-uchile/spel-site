@@ -1,7 +1,7 @@
 # Site settings
 title: MISE
 subtitle: Multidisciplinary Initiative for Space Exploration
-description: The Multidisciplinary Initiative for Space Exploration initiative (MISE) is to elevate the role of Chile in space exploration. MISE is about strengthening both the space research conducted in Chile and developing related engineering sciences.
+description: The Multidisciplinary Initiative for Space Exploration  (MISE) is to elevate the role of Chile in this field. MISE is about strengthening both the space research conducted in Chile and developing related engineering sciences.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 email: marina.stepanova@usach.cl
@@ -29,17 +29,23 @@ social:
 
 
 # Custom settings
+# Uses font awesome icons name, without 'fa-' prefix. Examples:
+#  space-shuttle user-astronaut globe-americas satellite meteor satellite-dish
 research:
-  - name: Space physics & weather
-    icon: satellite
+  - name: Space physics and space weather
+    icon: sun
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
-  - name: Evolution & Remote Signals
+  - name: Astronomy and astrophysics
+    icon: satellite-dish
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - name: Astrobiology and bioengineering
     icon: dna
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
-  - name: Astronomical Signals
-    icon: satellite-dish
+  - name: Engineering science
+    icon: satellite
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
 partners:
