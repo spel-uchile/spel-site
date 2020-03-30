@@ -9,10 +9,10 @@
             <div class="col-sm-3 text-center">
                 <a href="{{ p.url }}">
                     {% if p.logo %}
-                    <img src="img/logos/{{ p.logo }}" height="100px">
+                    <img src="img/logos/{{ p.logo }}" alt="{{ p.name }}" height="100px">
                     {% else %}
                     <i class="fas fa-4x fa-university text-muted">
-                        <h3>{{ p.name }}</h3>
+                        <h4>{{ p.name }}</h4>
                     </i>
                     {% endif %}
                 </a>
