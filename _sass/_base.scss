@@ -73,7 +73,7 @@ aside {
     padding: 0;
 }
 
-// Navigation
+// Navigatiosn
 
 .navbar-default {
     background-color: white;
@@ -81,6 +81,7 @@ aside {
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
+        padding: 5px 30px;
         color: $theme-primary;
         @include sans-serif-font;
         font-weight: 700;
@@ -148,6 +149,11 @@ aside {
                 &:hover {
                     color: $theme-primary;
                 }
+            }
+        }
+        &.affix-top {
+            img {
+                filter: brightness(100);
             }
         }
     }
@@ -218,7 +224,8 @@ header {
 }
 
 .service-box {
-    max-width: 400px;
+    max-width: 500px;
+    min-height: 300px;
     margin: 50px auto 50px;
     @media (min-width: 992px) {
         margin: 20px auto 20px;

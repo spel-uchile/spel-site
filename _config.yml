@@ -38,9 +38,11 @@ research:
   - name: Space physics and space weather
     icon: sun
     description: >
-      As any other star, our Sun is not only a source of light but also the source of a stellar (solar) wind:
-      a supersonic and superalfvenic flow of plasma. Planetary magnetic fields shield planets like Earth from such
-      winds, by creating an obstacle to the incoming particle flow and forming a bow shock
+      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shield it
+      from such plasma flow, creating the magnetosphere similar to a turbulent wake behind an obstacle. Numerous
+      satellites have provided invaluable information about space plasmas, allowing us to understand the e extreme
+      processes occurring in the near space, such as geomagnetic storms and substorms, which threaten human operations
+      both in space and on ground.
 
   - name: Astronomy and astrophysics
     icon: satellite-dish
