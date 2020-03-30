@@ -124,20 +124,20 @@ projects:
     img: isclab.jpg
     url: https://isclab.dcc.uchile.cl
 
-  - name: LAB3
-    area: AREA
-    img: 3.jpg
-    url:
+  - name: Millimiter-wave laboratory
+    area: Astronomy and astrophysics
+    img: mmwlab.jpg
+    url: http://www.das.uchile.cl/lab_mwl/
 
-  - name: LAB4
-    area: AREA
-    img: 4.jpg
-    url:
+  - name: Laboratory for Space and Astrophysical Plasmas
+    area: Space physics and space weather
+    img: spacephysics.jpg
+    url: https://ccc.ciencias.uchile.cl/plasma/index.php
 
-  - name: LAB5
-    area: AREA
-    img: 5.jpg
-    url:
+  - name: Chilean Space Weather Lab
+    area: Space physics and space weather
+    img: spaceweather.jpg
+    url: https://ccc.ciencias.uchile.cl/climaespacial/index.php
 
   - name: LAB6
     area: AREA
@@ -145,30 +145,41 @@ projects:
     url:
 
 team:
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Ricardo Finger
+    role: Associate Professor
+    afiliation: Universidad de Chile
+    img: rfinger.jpg
+    url: www.das.uchile.cl
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Juan Alejandro Valdivia
+    role: Associate professor
+    afiliation: Universidad de Chile
+    img: jvaldivia.jpg
+    url: https://macul.ciencias.uchile.cl/alejo
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+#  - name: Jorge Ardilla
+#    role: Electrical Engineering Departmen Director
+#    afiliation: Universidad Técnica Federico Santa María
+#    img: jardilla.jpg
+#    url: https://jorgeardilarey.wixsite.com/website
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Marina Stepanova
+    role: Associate Professor
+    afiliation: Universidad de Santiago de Chile
+    img: mstepanova.jpg
+    url: https://fisica.usach.cl/users/marina
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Marcos Diaz
+    role: Associate professor
+    afiliation: Universidad de Chile
+    img: mdiaz.jpg
+    url: http://ingenieria.uchile.cl/facultad/cuerpo-academico/92407/ingenieria-electrica?qui_id=13058
+
+  - name: Alexandre Bergel
+    role: Associate professor
+    afiliation: Universidad de Chile
+    img: abergel.jpg
+    url: http://bergel.eu/
 
   - name: Researcher Name
     role: Researcher
