@@ -218,7 +218,8 @@ header {
 }
 
 .service-box {
-    max-width: 400px;
+    max-width: 500px;
+    min-height: 300px;
     margin: 50px auto 50px;
     @media (min-width: 992px) {
         margin: 20px auto 20px;
