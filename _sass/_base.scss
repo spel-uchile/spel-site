@@ -270,6 +270,12 @@ header {
             .project-name {
                 font-size: 18px;
             }
+            .team-role{
+                font-size: 60%;
+            }
+            .team-name{
+                font-size: 100%;
+            }
         }
     }
     &:hover {
@@ -285,6 +291,12 @@ header {
                 }
                 .project-name {
                     font-size: 22px;
+                }
+                .team-role{
+                    font-size: 60%;
+                }
+                .team-name{
+                    font-size: 100%;
                 }
             }
         }
