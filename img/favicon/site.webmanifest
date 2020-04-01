@@ -1,6 +1,6 @@
 {
-    "name": "MISE",
-    "short_name": "MISE",
+    "name": "SPEL",
+    "short_name": "SPEL",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#d42e12",
+    "background_color": "#d42e12",
     "display": "standalone"
 }
