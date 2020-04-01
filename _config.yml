@@ -38,9 +38,9 @@ research:
   - name: Space physics and space weather
     icon: sun
     description: >
-      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shield it
+      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shields it
       from such plasma flow, creating the magnetosphere similar to a turbulent wake behind an obstacle. Numerous
-      satellites have provided invaluable information about space plasmas, allowing us to understand the e extreme
+      satellites have provided invaluable information about space plasmas, allowing us to understand the extreme
       processes occurring in the near space, such as geomagnetic storms and substorms, which threaten human operations
       both in space and on ground.
 
@@ -114,13 +114,13 @@ partners:
     url: http://www.bioscience.cl/
 
 projects:
-  - name: SPEL
-    area: Nanosatellites
+  - name: Space and Planetary Exploration Laboratoty (SPEL)
+    area: Engineering science
     img: spel.jpg
     url: http://spel.ing.uchile.cl/
 
-  - name: ISCLab
-    area: Software Engineering
+  - name: Intelligent Software Construction Laboratory (ISCLab)
+    area: Engineering science
     img: isclab.jpg
     url: https://isclab.dcc.uchile.cl
 
@@ -139,10 +139,10 @@ projects:
     img: spaceweather.jpg
     url: https://ccc.ciencias.uchile.cl/climaespacial/index.php
 
-  - name: LAB6
-    area: AREA
-    img: 6.jpg
-    url:
+  - name: Fault Diagnosis and Failure Prognosis Laboratory
+    area: Engineering science
+    img: labprognosis.jpg
+    url: https://www.cec.uchile.cl/~morchard/
 
 team:
   - name: Ricardo Finger
@@ -156,12 +156,6 @@ team:
     afiliation: Universidad de Chile
     img: jvaldivia.jpg
     url: https://macul.ciencias.uchile.cl/alejo
-
-#  - name: Jorge Ardilla
-#    role: Electrical Engineering Departmen Director
-#    afiliation: Universidad Técnica Federico Santa María
-#    img: jardilla.jpg
-#    url: https://jorgeardilarey.wixsite.com/website
 
   - name: Marina Stepanova
     role: Associate Professor
@@ -181,10 +175,17 @@ team:
     img: abergel.jpg
     url: http://bergel.eu/
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Roberto Navarro
+    role: Assistant professor
+    afiliation: Universidad de Concepcion
+    img: rnavarro.jpg
+    url: https://publons.com/researcher/V-7707-2018/
+
+  - name: Marcos Orchard
+    afiliation: Universidad de Chile
+    role: Associate professor
+    img: morchard.jpg
+    url: https://www.cec.uchile.cl/~morchard/
 
   - name: Researcher Name
     role: Researcher
@@ -271,7 +272,8 @@ team:
     img: profile.jpg
     url:
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+#  - name: Jorge Ardilla
+#    role: Electrical Engineering Departmen Director
+#    afiliation: Universidad Técnica Federico Santa María
+#    img: jardilla.jpg
+#    url: https://jorgeardilarey.wixsite.com/website
