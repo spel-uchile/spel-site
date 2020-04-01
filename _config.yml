@@ -38,9 +38,9 @@ research:
   - name: Space physics and space weather
     icon: sun
     description: >
-      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shield it
+      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shields it
       from such plasma flow, creating the magnetosphere similar to a turbulent wake behind an obstacle. Numerous
-      satellites have provided invaluable information about space plasmas, allowing us to understand the e extreme
+      satellites have provided invaluable information about space plasmas, allowing us to understand the extreme
       processes occurring in the near space, such as geomagnetic storms and substorms, which threaten human operations
       both in space and on ground.
 
@@ -181,10 +181,11 @@ team:
     img: abergel.jpg
     url: http://bergel.eu/
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Roberto Navarro
+    role: Assistant professor
+    afiliation: Universidad de Concepcion
+    img: rnavarro.jpg
+    url: https://publons.com/researcher/V-7707-2018/
 
   - name: Researcher Name
     role: Researcher
