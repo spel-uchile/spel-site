@@ -7,6 +7,25 @@
             </div>
         </div>
         <div class="row no-gutter" id="portfolio-grid">
+            {% for sat in site.satellites %}
+            <div class="col-lg-4 col-sm-6">
+                <a href="{{ project.url }}" class="portfolio-box">
+                    <img src="img/portfolio/{{ project.img }}" class="img-responsive" alt="{{ project.name }}">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-name">
+                                {{ project.name }}
+                            </div>
+                            <div class="project-category text-faded">
+                                {{ project.about }}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row no-gutter" id="portfolio-grid">
             {% for project in site.projects %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ project.url }}" class="portfolio-box">
@@ -17,7 +36,7 @@
                                 {{ project.name }}
                             </div>
                             <div class="project-category text-faded">
-                                {{ project.area }}
+                                {{ project.about }}
                             </div>
                         </div>
                     </div>
