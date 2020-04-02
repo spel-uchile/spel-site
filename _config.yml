@@ -77,155 +77,96 @@ partners:
     logo: cchen.png
     url: https://www.cchen.cl/
 
+satellites:
+  - name: SUCHAI 1
+    about:
+    img: suchai1.jpg
+    url:
+
+  - name: SUCHAI 2 y 3
+    about:
+    img: suchai2.jpg
+    url:
+
+  - name: PlantSat
+    about:
+    img: plantsat.jpg
+    url:
+
 projects:
-  - name: Space and Planetary Exploration Laboratoty (SPEL)
-    area: Engineering science
-    img: spel.jpg
-    url: http://spel.ing.uchile.cl/
+  - name: Low Cost Reaction Wheel
+    about: >
+      For this project a recycled BLDC motor from old HDD was used for which an optimal shape and sized flywheel
+      was develop.DRV10987 driver is used for speed control. Actual Engineering Model integrated as 3axis PC104 Std.
+      PCB using I2C for communication.
+    img: reactionwheel.jpg
+    url:
 
-  - name: Intelligent Software Construction Laboratory (ISCLab)
-    area: Engineering science
-    img: isclab.jpg
-    url: https://isclab.dcc.uchile.cl
+  - name: SUCHAI Flight Software
+    about: >
+      Open source, modular and extensible nano-satellite flight software. Flight proven in the SUCHAI I CubeSat.
+      Portable to FreeRTOS and GNU/Linux.
+    img: flightsoftware.jpg
+    url: https://github.com/spel-uchile/SUCHAI-Flight-Software
 
-  - name: Millimiter-wave laboratory
-    area: Astronomy and astrophysics
-    img: mmwlab.jpg
-    url: http://www.das.uchile.cl/lab_mwl/
-
-  - name: Laboratory for Space and Astrophysical Plasmas
-    area: Space physics and space weather
-    img: spacephysics.jpg
-    url: https://ccc.ciencias.uchile.cl/plasma/index.php
-
-  - name: Chilean Space Weather Lab
-    area: Space physics and space weather
-    img: spaceweather.jpg
-    url: https://ccc.ciencias.uchile.cl/climaespacial/index.php
-
-  - name: Fault Diagnosis and Failure Prognosis Laboratory
-    area: Engineering science
-    img: labprognosis.jpg
-    url: https://www.cec.uchile.cl/~morchard/
+  - name: Flight software architecture
+    about: >
+      Flight software for satellite is a complex software system. As such, assessing the design and implementation of
+      the software is necessary to ensure a safe software behavior.
+    img: flightsoftware2.jpg
+    url: https://data.spel.cl/
 
 team:
-  - name: Carlos Gonzalez
-    role: Ph.D. Student
-    afiliation: Universidad de Chile
-    img: cgonzalez.jpg
-    url: https://www.linkedin.com/in/carlosgonzalezcortes/?locale=en_US
-
   - name: Marina Stepanova
-    role: Associate Professor
-    afiliation: Universidad de Santiago de Chile
+    degree: Ph.D Physics
+    role: Associate professor
     img: mstepanova.jpg
     url: https://fisica.usach.cl/users/marina
 
   - name: Marcos Diaz
     role: Associate professor
-    afiliation: Universidad de Chile
+    degree: Ph.D. Electrical Egineering
     img: mdiaz.jpg
     url: http://ingenieria.uchile.cl/facultad/cuerpo-academico/92407/ingenieria-electrica?qui_id=13058
 
   - name: Alexandre Bergel
+    degree: Ph.D. Computer Sciences
     role: Associate professor
-    afiliation: Universidad de Chile
     img: abergel.jpg
     url: http://bergel.eu/
 
   - name: Marcos Orchard
-    afiliation: Universidad de Chile
+    degree: Ph.D. Electrical and Computer Engineering
     role: Associate professor
     img: morchard.jpg
     url: https://www.cec.uchile.cl/~morchard/
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
+  - name: Carlos Gonzalez
+    role: Ph.D. Student
+    degree: Ph.D.(c) Electrical Engineering
+    img: cgonzalez.jpg
+    url: https://www.linkedin.com/in/carlosgonzalezcortes/?locale=en_US
+
+  - name: Marcos Orchard
+    degree: Universidad de Chile
+    role: Associate professor
+    img: morchard.jpg
+    url: https://www.cec.uchile.cl/~morchard/
+
+  - name: Gustavo Díaz
+    degree: Electrical Engineer
+    role: Engineer
+    img: gdiaz.jpg
     url:
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
+  - name: Tamara Gutierrez
+    degree: Computer Sciences
+    role: Undergrad Student
+    img: tgutierrez.jpg
     url:
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
-
-#  - name: Jorge Ardilla
-#    role: Electrical Engineering Departmen Director
-#    afiliation: Universidad Técnica Federico Santa María
-#    img: jardilla.jpg
-#    url: https://jorgeardilarey.wixsite.com/website
+#  - name: Researcher Name
+#    degree:
+#    role: Researcher
+#    img: profile.jpg
+#    url:
