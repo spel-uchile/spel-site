@@ -4,13 +4,15 @@ subtitle: Space and Planetary Exploration Laboratory
 description: >
   Space and Planetary Exploration Laboratory (SPEL) was built in 2011 in the Electrical Engineering Department of the
   University of Chile to serve as the headquarters of the design, construction, development and operation of the first
-  chilean nanosatellite, SUChAI. Since that year, many students have contributed to the SUCHAI project and others,
+  chilean nanosatellite, SUCHAI. Since that year, many students have contributed to the SUCHAI project and others,
   extending the areas of the laboratory.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 email: spel@ing.uchile.cl
 logo: img/logos/spel.svg
-header-image: img/bg-astronaut.jpg
+header-image:
+   image: img/bg-astronaut.jpg
+   attrib: Photo by Niketh Vellanki on Unsplash
 
 # Build settings
 markdown: kramdown
@@ -146,12 +148,6 @@ team:
     degree: Ph.D.(c) Electrical Engineering
     img: cgonzalez.jpg
     url: https://www.linkedin.com/in/carlosgonzalezcortes/?locale=en_US
-
-  - name: Marcos Orchard
-    degree: Universidad de Chile
-    role: Associate professor
-    img: morchard.jpg
-    url: https://www.cec.uchile.cl/~morchard/
 
   - name: Gustavo Díaz
     degree: Electrical Engineer
