@@ -118,6 +118,13 @@ projects:
     img: flightsoftware2.jpg
     url: https://data.spel.cl/
 
+  - name: Low-cost localization system for a femto-satellite constellation
+    about: >
+      Low cost localization system that consist on using CubeSats with GPS as a reference for the femto-satellites.
+      The femto-satellites estimate their position online using a Kalman filter and the TDOA of beacons sent by the CubeSats.
+    img: femtoLoc.jpg
+    url:
+
 team:
   - name: Marina Stepanova
     degree: Ph.D Physics
@@ -159,6 +166,12 @@ team:
     degree: Computer Sciences
     role: Undergrad Student
     img: tgutierrez.jpg
+    url:
+
+  - name: Matías Vidal
+    degree: Electrical Engineer
+    role: Ph.D. Student
+    img: mvidal.jpg
     url:
 
 #  - name: Researcher Name
