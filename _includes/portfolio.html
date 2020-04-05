@@ -6,8 +6,8 @@
                 <hr class="primary">
             </div>
         </div>
-        <div class="row no-gutter" id="portfolio-grid">
-            {% for sat in site.satellites %}
+        <div class="row no-gutter" id="satellite-grid">
+            {% for project in site.satellites %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ project.url }}" class="portfolio-box">
                     <img src="img/portfolio/{{ project.img }}" class="img-responsive" alt="{{ project.name }}">

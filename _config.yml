@@ -81,19 +81,24 @@ partners:
 
 satellites:
   - name: SUCHAI 1
-    about:
+    about: >
+      First Chilean made CubeSat developed by students at the University of Chile and launched into space in June 2017.
+      Its goal was to study the ionosphere.
     img: suchai1.jpg
     url:
 
-  - name: SUCHAI 2 y 3
-    about:
+  - name: SUCHAI 2 & 3
+    about: >
+      Two 3U CubeSats to study ionosphere, magnetosphere and light pollution over the north of Chile.
     img: suchai2.jpg
     url:
 
   - name: PlantSat
-    about:
+    about: >
+      Its goal is to study in low earth orbit the growth of a suitable plant, replicating the conditions that life will
+      experience on Mars’ surface.
     img: plantsat.jpg
-    url:
+    url: https://plantsat.spel.cl/
 
 projects:
   - name: Low Cost Reaction Wheel
@@ -121,9 +126,25 @@ projects:
   - name: Low-cost localization system for a femto-satellite constellation
     about: >
       Low cost localization system that consist on using CubeSats with GPS as a reference for the femto-satellites.
-      The femto-satellites estimate their position online using a Kalman filter and the TDOA of beacons sent by the CubeSats.
+      The femto-satellites estimate their position online using a Kalman filter and the TDOA of beacons sent by the
+      CubeSats.
     img: femtoLoc.jpg
+    url: https://github.com/spel-uchile/FOD
+
+  - name: Variable Thrust Profile by Sequential Pulses of an Array of Solid Propellant Engines
+    about: >
+      Considering that the Cubesat technology can play an important role in future planetary exploration missions, the
+      design of a propulsion system for the landing process of a pseudo 6U nanosatellites is formulated.
+    img: thruster.jpg
     url:
+
+  - name: Variable Thrust Profile by Sequential Pulses of an Array of Solid Propellant Engines
+    about: >
+      A Star Tracker platform in which the sub-arcminutes precision can be achieved at an ultra-low-cost, filling a
+      technological gap for CubeSats. This platform is based on open source astronomy software, the Raspberry Pi 3 B+,
+      and its camera.
+    img: star_tracker.jpg
+    url: https://github.com/spel-uchile/Star_Tracker
 
 team:
   - name: Marina Stepanova
@@ -174,8 +195,26 @@ team:
     img: mvidal.jpg
     url:
 
-#  - name: Researcher Name
-#    degree:
-#    role: Researcher
-#    img: profile.jpg
-#    url:
+  - name: Alex Becerra
+    degree: Electrical Engineer
+    role: Engineer
+    img: abecerra.jpg
+    url:
+
+  - name: Elias Obreque
+    degree: Aerospace engineering
+    role: Ph.D. Student
+    img: eobreque.jpg
+    url:
+
+  - name: Samuel Gutierrez
+    degree: Physics Engineer
+    role: Ph.D. Student
+    img: sgutierrez.jpg
+    url:
+
+  - name: Researcher Name
+    degree:
+    role: Researcher
+    img: profile.jpg
+    url:
