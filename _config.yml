@@ -4,7 +4,7 @@ subtitle: Space and Planetary Exploration Laboratory
 description: >
   Space and Planetary Exploration Laboratory (SPEL) was built in 2011 in the Electrical Engineering Department of the
   University of Chile to serve as the headquarters of the design, construction, development and operation of the first
-  chilean nanosatellite, SUCHAI. Since that year, many students have contributed to the SUCHAI project and others,
+  Chilean nanosatellite, SUCHAI. Since that year, many students have contributed to the SUCHAI project and others,
   extending the areas of the laboratory.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -45,10 +45,10 @@ research:
       Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shields it
       from such plasma flow, creating the magnetosphere similar to a turbulent wake behind an obstacle. Numerous
       satellites have provided invaluable information about space plasmas, allowing us to understand the extreme
-      processes occurring in the near space, such as geomagnetic storms and substorms, which threaten human operations
+      processes occurring in the near space, such as geomagnetic storms and sub-storms, which threaten human operations
       both in space and on ground.
 
-  - name: Instrumenstation and satellite communications
+  - name: Instrumentation and satellite communications
     icon: satellite-dish
     description: >
       Chile has unique conditions for space exploration and astronomy. We expect to keep contributing to this field in
@@ -104,7 +104,7 @@ projects:
   - name: Low Cost Reaction Wheel
     about: >
       For this project a recycled BLDC motor from old HDD was used for which an optimal shape and sized flywheel
-      was develop.DRV10987 driver is used for speed control. Actual Engineering Model integrated as 3axis PC104 Std.
+      was develop. DRV10987 driver is used for speed control. Actual Engineering Model integrated as 3axis PC104 Std.
       PCB using I2C for communication.
     img: reactionwheel.jpg
     url:
@@ -133,12 +133,12 @@ projects:
 
   - name: Variable Thrust Profile by Sequential Pulses of an Array of Solid Propellant Engines
     about: >
-      Considering that the Cubesat technology can play an important role in future planetary exploration missions, the
+      Considering that the CubeSat technology can play an important role in future planetary exploration missions, the
       design of a propulsion system for the landing process of a pseudo 6U nanosatellites is formulated.
     img: thruster.jpg
     url:
 
-  - name: Variable Thrust Profile by Sequential Pulses of an Array of Solid Propellant Engines
+  - name: Ultra-low-cost Star Tracker for Attitude Determination
     about: >
       A Star Tracker platform in which the sub-arcminutes precision can be achieved at an ultra-low-cost, filling a
       technological gap for CubeSats. This platform is based on open source astronomy software, the Raspberry Pi 3 B+,
@@ -213,8 +213,14 @@ team:
     img: sgutierrez.jpg
     url:
 
-  - name: Researcher Name
-    degree:
-    role: Researcher
-    img: profile.jpg
+  - name: Camilo Rojas
+    degree: Ms.C. Computer Sciences
+    role: Engineer
+    img: crojas.jpg
     url:
+
+- name: Mariana Salinas
+  degree: Electrical Engineer
+  role: Undergrad student
+  img: msalinas.jpg
+  url:
