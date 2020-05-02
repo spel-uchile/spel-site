@@ -219,8 +219,8 @@ team:
     img: crojas.jpg
     url:
 
-- name: Mariana Salinas
-  degree: Electrical Engineer
-  role: Undergrad student
-  img: msalinas.jpg
-  url:
+  - name: Mariana Salinas
+    degree: Electrical Engineer
+    role: Undergrad student
+    img: msalinas.jpg
+    url:
