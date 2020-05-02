@@ -74,10 +74,65 @@ partners:
     logo: usach.png
     url: https://usach.cl
 
-  - name: Comisión Chilena de Energía Nuclear
+  - name: Plasma and Nuclear Fusion Group
     short: CCHEN
     logo: cchen.png
     url: https://www.cchen.cl/
+
+  - name: Exploration and Ore Deposit Modeling
+    short: AMTC
+    logo: amtc.png
+    url: http://www.amtc.cl/
+
+  - name: Fault Diagnosis & Failure Prognosis
+    short: FDFP
+    logo: die.png
+    url: https://www.cec.uchile.cl/~morchard/
+
+  - name: Millimeter Wave Laboratory
+    short: MWL
+    logo: calan.jpg
+    url: http://www.das.uchile.cl/lab_mwl/
+
+  - name: Photonic Laboratory
+    short: PHOTONICS
+    logo: photonics.jpg
+    url: http://www.raig.uchile.cl/grupos/photonics
+
+  - name: Laboratory of Mechanical Vibrations and Rotordynamics
+    short: LMVR
+    logo: lvmr.png
+    url: http://www.lvmr.cl/
+
+  - name: Wireless Networking Research Group
+    short: WiNetGroup
+    logo: winet.png
+    url: http://winetgroup.die.cl/
+
+  - name: Laboratory for Space Weather
+    short:
+    logo: spaceweather.gif
+    url: https://ccc.ciencias.uchile.cl/climaespacial/index.php
+
+#  - name: Molecular electronics Laboratory
+#    short:
+#    logo:
+#    url:
+
+  - name: Intelligent Software Construction Laboratory
+    short: ISCLab
+    logo: iscl.png
+    url: https://isclab.dcc.uchile.cl/
+
+  - name: Agencia Nacional de Investigación y Desarrollo
+    short: ANID
+    logo: anid.png
+    url: https://www.anid.cl/
+
+  - name: Facultad de Ciencias Fisicas y Matematicas
+    short: FCFM
+    logo: fcfm.png
+    url: http://ingenieria.uchile.cl/
 
 satellites:
   - name: SUCHAI 1
