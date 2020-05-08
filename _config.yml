@@ -201,6 +201,14 @@ projects:
     img: star_tracker.jpg
     url: https://github.com/spel-uchile/Star_Tracker
 
+  - name: Pypredict
+    about: >
+      Real-time satellite tracker and orbit propagator. This software can simulate deployments of one satellite from
+      another, move forward and backward in time, show the night-day terminator, among other features. It is used as
+      a simulation platform.
+    img: pypredict.jpg
+    url: https://github.com/spel-uchile/Pypredict
+
 team:
   - name: Marina Stepanova
     degree: Ph.D Physics
