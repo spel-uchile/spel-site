@@ -173,8 +173,9 @@ projects:
 
   - name: Flight software architecture
     about: >
-      Flight software for satellite is a complex software system. As such, assessing the design and implementation of
-      the software is necessary to ensure a safe software behavior.
+      The satellite flight software is a complex and crucial component. As such, assessing its overall quality is
+      essential to prevent unexpected behavior and failure. We employ sophisticated visualizations and fuzz testing techniques
+      to ensure its internal quality and robustness.
     img: flightsoftware2.jpg
     url: https://data.spel.cl/
 
