@@ -2,10 +2,11 @@
 title: SPEL
 subtitle: Space and Planetary Exploration Laboratory
 description: >
-  Space and Planetary Exploration Laboratory (SPEL) was built in 2011 in the Electrical Engineering Department of the
-  University of Chile to serve as the headquarters of the design, construction, development and operation of the first
-  Chilean nanosatellite, SUCHAI. Since that year, many students have contributed to the SUCHAI project and others,
-  extending the areas of the laboratory.
+  Space and Planetary Exploration Laboratory (SPEL) was built in 2011 in the Electrical Engineering Department of the 
+  University of Chile to serve as the headquarters of the design, construction, development, and operation of the first
+  Chilean nanosatellite, SUCHAI. Since that year, many students have contributed to the SUCHAI project and others, extending 
+  the research areas of the laboratory.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 email: spel@ing.uchile.cl
@@ -39,7 +40,7 @@ social:
 #  space-shuttle user-astronaut globe-americas satellite meteor satellite-dish
 # Use '>' after description:, so Jekyll will ignore the line breaks.
 research:
-  - name: Space physics and space weather
+  - name: Space exploration
     icon: space-shuttle
     description: >
       Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shields it
@@ -48,14 +49,14 @@ research:
       processes occurring in the near space, such as geomagnetic storms and sub-storms, which threaten human operations
       both in space and on ground.
 
-  - name: Instrumentation and satellite communications
-    icon: satellite-dish
+  - name: Planetary research
+    icon: globe-americas
     description: >
       Chile has unique conditions for space exploration and astronomy. We expect to keep contributing to this field in
       three lines: techniques and technologies to keep clean skies for astronomical observations; astronomical
       instruments for use in space; and space and planetary physics for stellar and exoplanetary systems
 
-  - name: Nanosatellites
+  - name: Space technology
     icon: satellite
     description: >
       Engineering is key to achieve the scientific goals. We will develop Life in Extreme Environment Labs (LEEL) to
@@ -209,6 +210,14 @@ projects:
       a simulation platform.
     img: pypredict.jpg
     url: https://github.com/spel-uchile/Pypredict
+    
+  - name: TEC
+    about: >
+      Real-time satellite tracker and orbit propagator. This software can simulate deployments of one satellite from
+      another, move forward and backward in time, show the night-day terminator, among other features. It is used as
+      a simulation platform.
+    img: tecstorm.jpg
+    url: 
 
 team:
   - name: Marina Stepanova
@@ -293,4 +302,34 @@ team:
     degree: Electrical Engineer
     role: Undergrad student
     img: msalinas.jpg
+    url:
+    
+  - name: Juan Carlos Valdez
+    degree: Ms.C Telecommunications
+    role: Ph.D. Student
+    img: jcvaldes.jpg
+    url:
+    
+  - name: Julian Barra
+    degree: Mechanical Engineer
+    role: Engineer
+    img: jbarra.jpg
+    url:
+    
+  - name: Rodrigo Muñoz
+    degree: Electrical Engineer
+    role: Ph.D. Student
+    img: rmuñoz.jpg
+    url:
+    
+  - name: Gerardo Peña
+    degree: Electrical Engineer
+    role: Ph.D. Student
+    img: gpena.jpg
+    url:
+    
+  - name: Javier Rojas
+    degree: Electrical Engineer
+    role: Engineer
+    img: profile.jpg
     url:
