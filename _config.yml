@@ -234,6 +234,12 @@ team:
     role: Associate professor
     img: morchard.jpg
     url: https://www.cec.uchile.cl/~morchard/
+    
+  - name: César Fuentes
+    role: Associate professor
+    degree: Ph.D. in Astronomy
+    img: cfuentes.jpg
+    url: http://www.cata.cl/investigador_en.php?id=107
 
   - name: Carlos Gonzalez
     role: Ph.D. Student
