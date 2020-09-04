@@ -162,7 +162,7 @@ projects:
       was develop. DRV10987 driver is used for speed control. Actual Engineering Model integrated as 3axis PC104 Std.
       PCB using I2C for communication.
     img: reactionwheel.jpg
-    url:
+    url: https://github.com/gdiazh/DRV10987_Firmware
 
   - name: SUCHAI Flight Software
     about: >
