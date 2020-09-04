@@ -261,7 +261,7 @@ team:
 
   - name: Tamara Gutierrez
     degree: Computer Sciences
-    role: Undergrad Student
+    role: Ms.C. Student
     img: tgutierrez.jpg
     url:
 
@@ -273,7 +273,7 @@ team:
 
   - name: Alex Becerra
     degree: Electrical Engineer
-    role: Engineer
+    role: Engineering
     img: abecerra.jpg
     url:
 
@@ -291,7 +291,7 @@ team:
 
   - name: Camilo Rojas
     degree: Ms.C. Computer Sciences
-    role: Engineer
+    role: Engineering
     img: crojas.jpg
     url:
 
@@ -309,7 +309,7 @@ team:
     
   - name: Julian Barra
     degree: Mechanical Engineer
-    role: Engineer
+    role: Engineering
     img: jbarra.jpg
     url:
     
@@ -327,6 +327,6 @@ team:
     
   - name: Javier Rojas
     degree: Electrical Engineer
-    role: Engineer
+    role: Engineering
     img: profile.jpg
     url:
