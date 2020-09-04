@@ -162,7 +162,7 @@ projects:
       was develop. DRV10987 driver is used for speed control. Actual Engineering Model integrated as 3axis PC104 Std.
       PCB using I2C for communication.
     img: reactionwheel.jpg
-    url:
+    url: https://github.com/gdiazh/DRV10987_Firmware
 
   - name: SUCHAI Flight Software
     about: >
@@ -234,6 +234,12 @@ team:
     role: Associate professor
     img: morchard.jpg
     url: https://www.cec.uchile.cl/~morchard/
+    
+  - name: César Fuentes
+    role: Associate professor
+    degree: Ph.D. in Astronomy
+    img: cfuentes.jpg
+    url: http://www.cata.cl/investigador_en.php?id=107
 
   - name: Carlos Gonzalez
     role: Ph.D. Student
@@ -245,7 +251,7 @@ team:
     degree: Electrical Engineer
     role: Engineer
     img: gdiaz.jpg
-    url:
+    url: https://cl.linkedin.com/in/gustavo-diaz-ingeniero-die
 
   - name: Tamara Gutierrez
     degree: Computer Sciences
@@ -269,7 +275,7 @@ team:
     degree: Aerospace engineering
     role: Ph.D. Student
     img: eobreque.jpg
-    url:
+    url: https://www.linkedin.com/in/elias-obreque-3b1b67106/
 
   - name: Samuel Gutierrez
     degree: Physics Engineer
