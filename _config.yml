@@ -213,10 +213,8 @@ projects:
     
   - name: TEC
     about: >
-      Real-time satellite tracker and orbit propagator. This software can simulate deployments of one satellite from
-      another, move forward and backward in time, show the night-day terminator, among other features. It is used as
-      a simulation platform.
-    img: tecstorm.jpg
+      TEC.
+    img: tecstorm.png
     url: 
 
 team:
@@ -307,7 +305,7 @@ team:
   - name: Juan Carlos Valdez
     degree: Ms.C Telecommunications
     role: Ph.D. Student
-    img: jcvaldes.jpg
+    img: jcvaldes.png
     url:
     
   - name: Julian Barra
@@ -325,7 +323,7 @@ team:
   - name: Gerardo Peña
     degree: Electrical Engineer
     role: Ph.D. Student
-    img: gpena.jpg
+    img: gpena.jpeg
     url:
     
   - name: Javier Rojas
