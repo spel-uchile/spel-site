@@ -43,11 +43,9 @@ research:
   - name: Space exploration
     icon: space-shuttle
     description: >
-      Our Sun is not only a source of light but also the source of a solar wind. The Earth’s magnetic field shields it
-      from such plasma flow, creating the magnetosphere similar to a turbulent wake behind an obstacle. Numerous
-      satellites have provided invaluable information about space plasmas, allowing us to understand the extreme
-      processes occurring in the near space, such as geomagnetic storms and sub-storms, which threaten human operations
-      both in space and on ground.
+      The laboratory's team collaborates with other partners to explore space by developing space missions taking 
+      advantage of miniaturized satellites. The research is focused on the space and planetary environments that might 
+      support different ecosystems in space.
 
   - name: Planetary research
     icon: globe-americas
@@ -59,10 +57,9 @@ research:
   - name: Space technology
     icon: satellite
     description: >
-      Engineering is key to achieve the scientific goals. We will develop Life in Extreme Environment Labs (LEEL) to
-      evaluate technology to sustain life and instruments to gather data to find candidates for aerial and
-      space missions. Leveraging from our experience in instrumentation, robotics, solar energy and mining, we will
-      focus on its development, transportation, deployment, maintenance and efficiency in space.
+      The laboratory´s team is devoted to contribute in space studies by developing instrumentation, on ground calibration, 
+      testing sites in extreme environments, space and on-ground communication solutions,  and technology for miniaturized-satellite, 
+      to support space missions.
 
 partners:
   - name: Universidad de Chile
@@ -211,9 +208,11 @@ projects:
     img: pypredict.jpg
     url: https://github.com/spel-uchile/Pypredict
     
-  - name: TEC
+  - name: Estimation of ionospheric total electron
     about: >
-      TEC.
+      Estimation of ionospheric TEC and generation of ionospheric maps to study ionospheric disturbance sources, such 
+      as geomagnetic storms, solar terminator, solar flares, solar eclipses, thunderstorm/lightning, tropical cyclones, 
+      earthquakes, volcanic eruption, tsunamis, rocket launches, etc.
     img: tecstorm.png
     url: 
 
@@ -262,7 +261,7 @@ team:
 
   - name: Tamara Gutierrez
     degree: Computer Sciences
-    role: Undergrad Student
+    role: Ms.C. Student
     img: tgutierrez.jpg
     url:
 
@@ -274,7 +273,7 @@ team:
 
   - name: Alex Becerra
     degree: Electrical Engineer
-    role: Engineer
+    role: Engineering
     img: abecerra.jpg
     url:
 
@@ -292,7 +291,7 @@ team:
 
   - name: Camilo Rojas
     degree: Ms.C. Computer Sciences
-    role: Engineer
+    role: Engineering
     img: crojas.jpg
     url:
 
@@ -310,7 +309,7 @@ team:
     
   - name: Julian Barra
     degree: Mechanical Engineer
-    role: Engineer
+    role: Engineering
     img: jbarra.jpg
     url:
     
@@ -328,6 +327,6 @@ team:
     
   - name: Javier Rojas
     degree: Electrical Engineer
-    role: Engineer
+    role: Engineering
     img: profile.jpg
     url:
