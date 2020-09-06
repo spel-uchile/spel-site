@@ -43,23 +43,24 @@ research:
   - name: Space exploration
     icon: space-shuttle
     description: >
-      The laboratory's team collaborates with other partners to explore space by developing space missions taking 
-      advantage of miniaturized satellites. The research is focused on the space and planetary environments that might 
-      support different ecosystems in space.
+      The laboratory's team collaborates with other partners to explore space by developing space
+      missions taking advantage of miniaturized satellites. The research is focused on the space and
+      planetary environments that might support different ecosystems in space.
 
   - name: Planetary research
     icon: globe-americas
     description: >
-      Chile has unique conditions for space exploration and astronomy. We expect to keep contributing to this field in
-      three lines: techniques and technologies to keep clean skies for astronomical observations; astronomical
-      instruments for use in space; and space and planetary physics for stellar and exoplanetary systems
+      The laboratory's team collaborates with other partners to study earth environment, in particular
+      in extreme environments. This work is not only to contribute in the understanding of life in our
+      planet, but also as to use that knowledge for supporting the search and/or maintenance of life
+      either in space or in other celestial bodies. 
 
   - name: Space technology
     icon: satellite
     description: >
-      The laboratory´s team is devoted to contribute in space studies by developing instrumentation, on ground calibration, 
-      testing sites in extreme environments, space and on-ground communication solutions,  and technology for miniaturized-satellite, 
-      to support space missions.
+      The laboratory´s team is devoted to contribute in space studies by developing instrumentation, 
+      on ground calibration, testing sites in extreme environments, space and on-ground communication
+      solutions,  technology for miniaturized-satellite, etc.  to support space missions.
 
 partners:
   - name: Universidad de Chile
