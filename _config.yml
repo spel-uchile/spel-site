@@ -132,6 +132,11 @@ partners:
     short: FCFM
     logo: fcfm.png
     url: http://ingenieria.uchile.cl/
+    
+  - name: ESATAN-TMS
+    short: ESATAN-TMS
+    logo: esatan.png
+    url: https://www.esatan-tms.com/
 
 satellites:
   - name: SUCHAI 1
