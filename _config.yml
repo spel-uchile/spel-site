@@ -1,5 +1,5 @@
 # Site settings
-title: SPEL
+title: SPEL-1
 subtitle: Space and Planetary Exploration Laboratory
 description: >
   Space and Planetary Exploration Laboratory (SPEL) was built in 2011 in the Electrical Engineering Department of the 
@@ -12,9 +12,7 @@ url: "" # the base hostname & protocol for your site
 email: spel@ing.uchile.cl
 logo: img/logos/spel.svg
 header-image:
-   #image: img/bg-astronaut.jpg
-   #attrib: Photo by Niketh Vellanki on Unsplash
-   image: img/constelacion-UCH.jpg
+  image: img/constelacion-UCH.jpg
 
 # Build settings
 markdown: kramdown
