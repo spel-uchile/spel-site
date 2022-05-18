@@ -12,7 +12,8 @@ url: "" # the base hostname & protocol for your site
 email: spel@ing.uchile.cl
 logo: img/logos/spel.svg
 header-image:
-   image: img/bg-astronaut.jpg
+   #image: img/bg-astronaut.jpg
+   image: img/sats.jpg
    #attrib: Photo by Niketh Vellanki on Unsplash
    #image: img/constelacion-UCH.jpg
 
