@@ -339,8 +339,8 @@ team:
     img: profile.jpg
     url:
 
-Alumni:
-  - name: Aa
+alumni:
+  - name: Example
     degree: Ph.D Physics
     role: Associate professor
     img: profile.jpg
