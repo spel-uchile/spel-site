@@ -7,20 +7,20 @@
             </div>
         </div>
         <div class="row no-gutter" id="alumni-grid">
-            {% for person in site.alumni %}
+            {% for alumnus in site.alumni %}
             <div class="col-lg-1 col-md-2 col-xs-3">
-                <a href="{{ person.url }}" class="portfolio-box">
-                    <img src="img/team/{{ person.img }}" class="img-responsive" alt="{{ person.name }}" height="300px">
+                <a href="{{ alumnus.url }}" class="portfolio-box">
+                    <img src="img/team/{{ alumnus.img }}" class="img-responsive" alt="{{ alumnus.name }}" height="300px">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-name alumni-name">
-                                {{ person.name }}
+                                {{ alumnus.name }}
                             </div>
                             <div class="project-category alumni-role text-faded">
-                                {{ person.degree }}
+                                {{ alumnus.degree }}
                             </div>
                             <div class="project-category alumni-role text-bold">
-                                {{ person.role }}
+                                {{ alumnus.role }}
                             </div>
                         </div>
                     </div>
