@@ -15,7 +15,7 @@ header-image:
    #image: img/bg-astronaut.jpg
    image: img/sats.jpg
    #attrib: Photo by Niketh Vellanki on Unsplash
-   #image: img/constelacion-UCH.jpg
+   image: img/constelacion-UCH.jpg
 
 # Build settings
 markdown: kramdown
