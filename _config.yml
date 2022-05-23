@@ -339,6 +339,12 @@ team:
     img: profile.jpg
     url:
 
+  - name: Cristóbal Garrido
+    degree: Mechanical Engineer
+    role: Engineering
+    img: cgarrido.jpg
+    url: 
+    
 alumni:
   - name: Cristóbal Garrido
     degree: Mechanical Engineer
