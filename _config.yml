@@ -346,6 +346,9 @@ team:
     url: 
 
     name: Yohadne Stable
+    degree: Information Sciences
+    role: Information Management
+    img: 
     
 alumni:
   - name: Cristóbal Garrido
@@ -353,6 +356,7 @@ alumni:
     role: Engineering
     img: cgarrido.jpg
     url: 
+
 publications:
  Papers:
 
