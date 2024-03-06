@@ -275,7 +275,7 @@ team:
 
   - name: Matías Vidal
     degree: Electrical Engineer
-    role: Ph.D. Student
+    role: Ph.D. Electrical Engineering
     img: mvidal.jpg
     url:
 
@@ -287,18 +287,18 @@ team:
 
   - name: Elias Obreque
     degree: Aerospace engineering
-    role: Ph.D. Student
+    role: Ph.D.(c) Electrical Engineering
     img: eobreque.jpg
     url: https://www.linkedin.com/in/elias-obreque-3b1b67106/
 
   - name: Samuel Gutierrez
     degree: Physics Engineer
-    role: Ph.D. Student
+    role: Ph.D. Electrical Engineering
     img: sgutierrez.jpg
     url:
 
   - name: Camilo Rojas
-    degree: Ms.C. Computer Sciences
+    degree: M.Sc. Computer Sciences
     role: Engineering
     img: crojas.jpg
     url:
@@ -309,9 +309,9 @@ team:
     img: msalinas.jpg
     url:
     
-  - name: Juan Carlos Valdez
-    degree: Ms.C Telecommunications
-    role: Ph.D. Student
+  - name: Juan Carlos Valdés
+    degree: Telecommunications Engineer
+    role: Ph.D. Electrical Engineering
     img: jcvaldes.png
     url:
     
@@ -373,7 +373,7 @@ publications:
   <li>S.T. Gutierrez, C.I. Fuentes, M.A. Díaz, "Introducing SOST: An Ultra-Low-Cost Star Tracker Concept Based on a Raspberry Pi and Open-Source Astronomy Software", IEEE ACCESS ISI/SCOPUS/UCH/VID, August 2020, http://dx.doi.org/10.1109/ACCESS.2020.3020048</li>
   <li>L. Orellana, J.Ardila-Rey, G. Avaria, M.A. Díaz, C. Pavez, R. Schurch, L. Soto, "On the Relationship Between the Electromagnetic Burst and Inductive Sensor Measurement of a Pulsed Plasma Accelerator", IEEE ACCESS ISI/SCOPUS/UCH/VID, September 2019, http://dx.doi.org/10.1109/ACCESS.2019.2941466</li>
   <li>C.E. Gonzalez, C.J. Rojas, A. Bergel, M.A. Díaz, "An Architecture-Tracking Approach to Evaluate a Modular and Extensible Flight Software for CubeSat Nanosatellites", IEEE ACCESS ISI/SCOPUS/UCH/VID, 2019, http://dx.doi.org/10.1109/ACCESS.2019.2927931</li>
-</li>C.E. Gonzalez, C.J. Rojas, A. Bergel, M.A. Díaz, "An Architecture-Tracking Approach to Evaluate a Modular and Extensible Flight Software for CubeSat Nanosatellites" IEEE ACCESS ISI/SCOPUS/UCH/VID, 2019, http://dx.doi.org/10.1109/ACCESS.2019.2927931</li>
+  </li>C.E. Gonzalez, C.J. Rojas, A. Bergel, M.A. Díaz, "An Architecture-Tracking Approach to Evaluate a Modular and Extensible Flight Software for CubeSat Nanosatellites" IEEE ACCESS ISI/SCOPUS/UCH/VID, 2019, http://dx.doi.org/10.1109/ACCESS.2019.2927931</li>
   <li>M. Martínez-Ledesma, M.A. Díaz, "Determination of the Signal Fluctuation Threshold of the Temperature-Ion Composition Ambiguity Problem Using Monte Carlo Simulations", JOURNAL OF GEOPHYSICAL RESEARCH-SPACE PHYSICS	SCOPUS/ISI/UCH/VID, March 2019, http://dx.doi.org/10.1029/2018JA026217</li>
   <li>T. Toledo, C.Garrido, M.A. Díaz, R. Rondanelli, S. Jorquera, P. Valdivieso, "AOT Retrieval Procedure for Distributed Measurements With Low-Cost Sun Photometers", JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES	ISI/SCOPUS/UCH/VID, December 2017, http://dx.doi.org/10.1002/2017JD027309</li>
 
