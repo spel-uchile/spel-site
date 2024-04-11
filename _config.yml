@@ -345,10 +345,21 @@ team:
     img: cgarrido.jpg
     url: 
 
-    name: Yohadne Stable
+ - name: Yohadne Stable
     degree: Information Sciences
     role: Information Management
-    img: 
+    img: ystable.jpg
+   
+ - name: Massinissa Hadjara
+    degree: PhD in Astronomy
+    role: Associate professor
+    img: mhadjara.jpg
+    
+ - name: Sofía Vargas Payera
+    degree: Doctor of Science
+    role: Trandisciplinary  Researcher
+    img: svargas.jpg
+
     
 alumni:
   - name: Cristóbal Garrido
