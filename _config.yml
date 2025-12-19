@@ -302,6 +302,53 @@ team:
     role: Engineering
     img: crojas.jpg
     url:
+    
+  - name: Rodrigo Muñoz
+    degree: Electrical Engineer
+    role: Ph.D. Student
+    img: rmuñoz.jpg
+    url:
+
+  - name: Cristóbal Garrido
+    degree: Mechanical Engineer
+    role: Engineering
+    img: cgarrido.jpg
+    url: 
+   
+  - name: Massinissa Hadjara
+    degree: PhD in Astronomy
+    role: Associate professor
+    img: mhadjaraB.jpg
+    
+  - name: Sofía Vargas 
+    degree: Doctor of Science
+    role: Trandisciplinary  Researcher
+    img: sofia3.jpg
+   
+alumni:
+  - name: Cristóbal Garrido
+    degree: Mechanical Engineer
+    role: Engineering
+    img: cgarrido.jpg
+    url: 
+
+  - name: Javier Rojas
+    degree: Electrical Engineer
+    role: Engineering
+    img: profile.jpg
+    url:
+
+  - name: Yohadne Stable
+    degree: Information Sciences
+    role: Information Management
+    img: ystable.jpg
+    url: 
+
+  - name: Gerardo Peña
+    degree: Electrical Engineer
+    role: Ph.D. Student
+    img: gpena.jpeg
+    url:
 
   - name: Mariana Salinas
     degree: Electrical Engineer
@@ -320,53 +367,6 @@ team:
     role: Engineering
     img: jbarra.jpg
     url:
-    
-  - name: Rodrigo Muñoz
-    degree: Electrical Engineer
-    role: Ph.D. Student
-    img: rmuñoz.jpg
-    url:
-    
-  - name: Gerardo Peña
-    degree: Electrical Engineer
-    role: Ph.D. Student
-    img: gpena.jpeg
-    url:
-    
-  - name: Javier Rojas
-    degree: Electrical Engineer
-    role: Engineering
-    img: profile.jpg
-    url:
-
-  - name: Cristóbal Garrido
-    degree: Mechanical Engineer
-    role: Engineering
-    img: cgarrido.jpg
-    url: 
-
-  - name: Yohadne Stable
-    degree: Information Sciences
-    role: Information Management
-    img: ystable.jpg
-   
-  - name: Massinissa Hadjara
-    degree: PhD in Astronomy
-    role: Associate professor
-    img: mhadjaraB.jpg
-    
-  - name: Sofía Vargas 
-    degree: Doctor of Science
-    role: Trandisciplinary  Researcher
-    img: sofia3.jpg
-
-   
-alumni:
-  - name: Cristóbal Garrido
-    degree: Mechanical Engineer
-    role: Engineering
-    img: cgarrido.jpg
-    url: 
 
 publications:
  Papers:
